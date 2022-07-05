@@ -3,7 +3,7 @@ import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import {useState, useEffect} from 'react';
 import Mylist from './components/imageMove/Mylist';
-import Recommended from './components/Recommended';
+import Recommended from './components/imageMove/Recommended';
 
 function App() {
 
